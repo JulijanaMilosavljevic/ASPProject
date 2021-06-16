@@ -1,0 +1,9 @@
+D:\ASPPokusaj2\ASPProject-master\ASPProjekat.Domain\bin\Debug\netcoreapp3.1\ASPProjekat.Domain.deps.json
+D:\ASPPokusaj2\ASPProject-master\ASPProjekat.Domain\bin\Debug\netcoreapp3.1\ASPProjekat.Domain.dll
+D:\ASPPokusaj2\ASPProject-master\ASPProjekat.Domain\bin\Debug\netcoreapp3.1\ASPProjekat.Domain.pdb
+D:\ASPPokusaj2\ASPProject-master\ASPProjekat.Domain\obj\Debug\netcoreapp3.1\ASPProjekat.Domain.csprojAssemblyReference.cache
+D:\ASPPokusaj2\ASPProject-master\ASPProjekat.Domain\obj\Debug\netcoreapp3.1\ASPProjekat.Domain.AssemblyInfoInputs.cache
+D:\ASPPokusaj2\ASPProject-master\ASPProjekat.Domain\obj\Debug\netcoreapp3.1\ASPProjekat.Domain.AssemblyInfo.cs
+D:\ASPPokusaj2\ASPProject-master\ASPProjekat.Domain\obj\Debug\netcoreapp3.1\ASPProjekat.Domain.csproj.CoreCompileInputs.cache
+D:\ASPPokusaj2\ASPProject-master\ASPProjekat.Domain\obj\Debug\netcoreapp3.1\ASPProjekat.Domain.dll
+D:\ASPPokusaj2\ASPProject-master\ASPProjekat.Domain\obj\Debug\netcoreapp3.1\ASPProjekat.Domain.pdb

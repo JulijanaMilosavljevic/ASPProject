@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "u5JWLw4+RT/iHhDfn74VBubShWcKDxGtgIbi2GIMF1bo4BArg0S6ICZtaLdGlhIF0yB5ENbL8v08uFYVklsCRg==",
+  "success": true,
+  "projectFilePath": "D:\\ASPPokusaj2\\ASPProject-master\\ASPProjekat.Application\\ASPProjekat.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pc\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.5\\microsoft.aspnetcore.http.features.3.1.5.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.5\\microsoft.extensions.primitives.3.1.5.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\system.io.pipelines\\4.7.1\\system.io.pipelines.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

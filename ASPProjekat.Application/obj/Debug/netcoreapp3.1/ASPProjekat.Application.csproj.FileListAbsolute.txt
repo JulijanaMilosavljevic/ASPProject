@@ -1,0 +1,12 @@
+D:\ASPPokusaj2\ASPProject-master\ASPProjekat.Application\bin\Debug\netcoreapp3.1\ASPProjekat.Application.deps.json
+D:\ASPPokusaj2\ASPProject-master\ASPProjekat.Application\bin\Debug\netcoreapp3.1\ASPProjekat.Application.dll
+D:\ASPPokusaj2\ASPProject-master\ASPProjekat.Application\bin\Debug\netcoreapp3.1\ASPProjekat.Application.pdb
+D:\ASPPokusaj2\ASPProject-master\ASPProjekat.Application\bin\Debug\netcoreapp3.1\ASPProjekat.Domain.dll
+D:\ASPPokusaj2\ASPProject-master\ASPProjekat.Application\bin\Debug\netcoreapp3.1\ASPProjekat.Domain.pdb
+D:\ASPPokusaj2\ASPProject-master\ASPProjekat.Application\obj\Debug\netcoreapp3.1\ASPProjekat.Application.csprojAssemblyReference.cache
+D:\ASPPokusaj2\ASPProject-master\ASPProjekat.Application\obj\Debug\netcoreapp3.1\ASPProjekat.Application.AssemblyInfoInputs.cache
+D:\ASPPokusaj2\ASPProject-master\ASPProjekat.Application\obj\Debug\netcoreapp3.1\ASPProjekat.Application.AssemblyInfo.cs
+D:\ASPPokusaj2\ASPProject-master\ASPProjekat.Application\obj\Debug\netcoreapp3.1\ASPProjekat.Application.csproj.CoreCompileInputs.cache
+D:\ASPPokusaj2\ASPProject-master\ASPProjekat.Application\obj\Debug\netcoreapp3.1\ASPProjekat.Application.csproj.CopyComplete
+D:\ASPPokusaj2\ASPProject-master\ASPProjekat.Application\obj\Debug\netcoreapp3.1\ASPProjekat.Application.dll
+D:\ASPPokusaj2\ASPProject-master\ASPProjekat.Application\obj\Debug\netcoreapp3.1\ASPProjekat.Application.pdb
